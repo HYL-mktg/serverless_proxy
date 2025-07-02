@@ -21,7 +21,7 @@ export async function handler(event) {
 
   // 4) MP collect용 올바른 URL (한 줄, 공백·줄바꿈 금지)
   const url =
-    "https://www.google-analytics.com/mp/collect_hyedu_blog" +
+    "https://www.google-analytics.com/mp/collect" +
     "?measurement_id=G-G46V84D4XH" +
     "&api_secret=rRhH9CPNRAGKBWC6K5ZNNA";
 
