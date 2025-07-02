@@ -21,7 +21,7 @@ export async function handler(event) {
 
   // 4) MP collect용 올바른 URL (한 줄, 공백·줄바꿈 금지)
   const url =
-    "https://www.google-analytics.com/mp/collect_mediquablog" +
+    "https://www.google-analytics.com/mp/collect" +
     "?measurement_id=G-JW35YY63LF" +
     "&api_secret=tsb3gH_1StCfwOhMIjss1g";
 
